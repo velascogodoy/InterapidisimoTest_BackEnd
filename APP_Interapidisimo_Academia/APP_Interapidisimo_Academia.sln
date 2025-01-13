@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APP_Interapidisimo_Academia", "APP_Interapidisimo_Academia.csproj", "{EB0E95F0-D801-4F56-9FFB-3557C4B25DC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "..\Modelos\Modelos.csproj", "{E7C08FBF-2412-4D9F-B28F-B05C7F90E815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicios", "..\Servicios\Servicios.csproj", "{499BF3FE-DA06-41B5-B156-D744C854030E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0E95F0-D801-4F56-9FFB-3557C4B25DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0E95F0-D801-4F56-9FFB-3557C4B25DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0E95F0-D801-4F56-9FFB-3557C4B25DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0E95F0-D801-4F56-9FFB-3557C4B25DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C08FBF-2412-4D9F-B28F-B05C7F90E815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C08FBF-2412-4D9F-B28F-B05C7F90E815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C08FBF-2412-4D9F-B28F-B05C7F90E815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C08FBF-2412-4D9F-B28F-B05C7F90E815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499BF3FE-DA06-41B5-B156-D744C854030E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499BF3FE-DA06-41B5-B156-D744C854030E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499BF3FE-DA06-41B5-B156-D744C854030E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499BF3FE-DA06-41B5-B156-D744C854030E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
